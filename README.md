@@ -2,8 +2,8 @@
 
 - 👋 ¡Hola, hola! Soy @joseacat
 - 👀 Aquí tengo mi red central de conocimiento en el trabajo.
-- 🌱 Estoy trabajando con PHP, JavaScript, CSS, Golang, Rust y Haxe.
-- 🪴 CMS/Framework: WordPress, Magento, Shopify, Deno, Fresh, Heaps y Bevy.
+- 🌱 Estoy trabajando con PHP, JavaScript, Deno, CSS y Haxe.
+- 🪴 CMS/Framework: WordPress, Magento, Shopify, Fresh y Heaps.
 - 📫 Puedes saber más de mí en https://joseacat.io/
 
 <!---
